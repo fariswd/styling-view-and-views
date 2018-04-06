@@ -1,7 +1,7 @@
 # My View And Views
 Styling components
 
-<img src="https://raw.githubusercontent.com/fariswd/MyIntentApp/master/ss.png" height="300">
+<img src="https://raw.githubusercontent.com/fariswd/styling-view-and-views/master/ss.png" height="300">
 
 ## Run this program?
 1. git clone this repo
